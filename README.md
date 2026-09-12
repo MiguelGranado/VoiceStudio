@@ -1,3 +1,15 @@
+<!-- ===== ULAMANDER / MIGUEL GRANADOS FORK BANNER ===== -->
+<p align="center">
+  <a href="https://github.com/MiguelGranado/ulamander-voice-lab"><img src="https://img.shields.io/badge/Part_of-Ulamander_Voice_Lab-fe702d?style=for-the-badge&labelColor=0d1117" alt="Ulamander Voice Lab"/></a>
+  <a href="https://github.com/MiguelGranado"><img src="https://img.shields.io/badge/Fork_by-Miguel_Granados-0d1117?style=for-the-badge&logo=github" alt="Miguel"/></a>
+  <a href="https://github.com/MiguelGranado/VoiceStudio/stargazers"><img src="https://img.shields.io/github/stars/MiguelGranado/VoiceStudio?style=for-the-badge&color=fe702d&labelColor=0d1117" alt="Stars"/></a>
+</p>
+
+> **Fork note:** Upstream is [`debpalash/VoiceStudio`](https://github.com/debpalash/VoiceStudio). Maintained as part of **Ulamander Voice Lab** by Miguel Granados.  
+> ⭐ Star this fork **and** [`ulamander-voice-lab`](https://github.com/MiguelGranado/ulamander-voice-lab) if it helps your voice / TTS work.
+
+---
+
 <div align="center">
 
   <h3>NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr</h3>
